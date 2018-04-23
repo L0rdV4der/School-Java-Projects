@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="Flip" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="Click"/>
+			<item value="shuffledList"/>
+			<item value="buttons"/>
+			<item value="courseList"/>
+			<item value="charList"/>
+			<item value="matchList"/>
+			<item value="cards"/>
+			<item value="secIndex"/>
+			<item value="cardOne"/>
+			<item value="card0ne"/>
+			<item value="car0ne"/>
+			<item value="carOne"/>
+			<item value="flipping"/>
+			<item value="panel"/>
+			<item value="JPanel"/>
+		</list>
+		<list key="replacehistory">
+			<item value="Flip"/>
+			<item value="randomChars"/>
+			<item value="cards"/>
+			<item value="charList"/>
+			<item value="charArray"/>
+			<item value="card"/>
+			<item value="cardIndex"/>
+			<item value="flip"/>
+			<item value="slots"/>
+			<item value="Slots"/>
+			<item value="Match Found"/>
+			<item value="Click"/>
+			<item value="2"/>
+			<item value="4"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="290" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="409" key="DIALOG_HEIGHT"/>
+		<item value="908" key="DIALOG_X_ORIGIN"/>
+		<item value="96" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
